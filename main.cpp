@@ -15,5 +15,7 @@ int main()
     cout<<"Difference= "<<c<<endl;
     c = a * b;
     cout<<"Multiply= "<<c<<endl;
+    c = a/b;
+    cout<<"Division= "<<c<<endl;
 
 }
